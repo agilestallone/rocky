@@ -4,4 +4,4 @@ rocky
 Rocky 4
 Nooo
 
-du dudu duu dööööööööööö
+du dudu duu
